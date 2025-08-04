@@ -1,0 +1,20 @@
+{
+  "materials": {},
+  "prefabs": {
+    "point light": "assets/prefabs/point light.prefab",
+    "saturn": "assets/prefabs/saturn.prefab",
+    "sun": "assets/prefabs/sun.prefab",
+    "thunder": "assets/prefabs/thunder.prefab"
+  },
+  "bundleFiles": [
+    "C:/Users/Epic1/BSManager/BSInstances/1.39.1/Beat Saber_Data/CustomWIPLevels/Message From Home/bundleWindows2021.vivify",
+    "C:/Users/Epic1/BSManager/BSInstances/1.39.1/Beat Saber_Data/CustomWIPLevels/Message From Home/bundleWindows2019.vivify",
+    "C:/Users/Epic1/BSManager/BSInstances/1.39.1/Beat Saber_Data/CustomWIPLevels/Message From Home/bundleAndroid2021.vivify"
+  ],
+  "bundleCRCs": {
+    "_windows2021": 1189954824,
+    "_windows2019": 4165803741,
+    "_android2021": 2993240462
+  },
+  "isCompressed": true
+}
